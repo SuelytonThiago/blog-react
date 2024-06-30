@@ -1,0 +1,7 @@
+.postContainer h2 {
+    text-align: center;
+}
+
+.postContainer .post {
+    border-bottom: none;
+}

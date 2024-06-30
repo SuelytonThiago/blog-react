@@ -1,0 +1,24 @@
+.admin h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+
+}
+
+.actions {
+    display: flex;
+    gap: 1rem; 
+}
+
+.editBtn,
+.deleteBtn{
+    font-size: 1.1rem;
+    color:#fff
+}
+
+.editBtn {
+    background-color: #13c9e9;
+}
+
+.deleteBtn{
+    background-color: #eb1717;
+}
